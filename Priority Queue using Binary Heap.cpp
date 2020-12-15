@@ -3,8 +3,8 @@
 #include <vector>
 #include <queue>
 using namespace std;
-char reletter = -878;
-int reorder = -878;
+char reletter = -1;
+int reorder = -1;
 class Type {
 public:
 	char letter = reletter;
